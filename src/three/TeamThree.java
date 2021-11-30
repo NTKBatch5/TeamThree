@@ -15,5 +15,9 @@ public class TeamThree {
 		System.out.println("*************************************");
 	}
 	
+	public static void subtract(int a, int b) {
+		System.out.println(a-b);
+	}
+	
 
 }
