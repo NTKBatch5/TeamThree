@@ -7,4 +7,7 @@ public class TeamThree {
 		
 		System.out.println("Hello");
 	}
+	public static void shahid(String str) {
+		System.out.println("New method added");
+	}
 }
