@@ -24,6 +24,7 @@ public class TeamThree {
 	public static void hayder(String str) {
 		System.out.println("New method added by hayder");
 		System.out.println("hayder");
+		System.out.println("hayder...");
 	}
 
 }
